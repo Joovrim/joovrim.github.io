@@ -12,6 +12,7 @@ nav_order: 4
   - [Starting Out](#starting-out)
   - [The Main Quest](#the-main-quest)
   - [The World](#the-world)
+  - [Precision](#precision)
 
 ## Starting Out
 When you first start a new game, you won't find yourself inside of Skyrim anywhere. Instead, you will be inside of the Realm of Lorkhan. This mod replaces the vanilla Skyrim intro with a most freestyle character creator, treat this like an extention of character creation, the game has not started yet, sure you can loot everything but then you may not have fun once you start.
