@@ -5,11 +5,11 @@ nav_order: 1
 permalink: /
 ---
 
-![Tahrovin Banner](/assets/images/Tahrovin.png)
+![Joovrim Joov](/assets/images/Joov.png)
 {: .no_toc }
 
 
-First things first: **this list contains adult content and you must be of legal age in your country. This means 18+ in most countries, 21+ in others. It is up to you to be sure of the age requirement in your country. Tahrovin is a collection of different mods from various sources, it does not reflect the views or opinions of any mod author's featured in the list.**
+First things first: **Joovrim is a collection of different mods from various sources, it does not reflect the views or opinions of any mod author's featured in the list.**
 
 <br>
 
