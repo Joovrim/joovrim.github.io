@@ -30,6 +30,8 @@ Support for Joovrim is handled on the Joovrim Nexus Page
 
 Joovrim is a list based on Joov's typical go to mods when he starts a playthrough for his channel. Under special circumstances we may add specific profiles to emulate specific runs he has recently done but for the most part this list exists to be a Vanilla+ springing off point for your own list or just to play vanilla skyrim with a little extra stability and flair.
 
+I used Skyrim Modding Essentials as a base to make this list so full credit to Phenderix for that list.
+
 <br>
 
 # Before You Start
