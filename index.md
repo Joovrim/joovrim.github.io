@@ -17,18 +17,18 @@ First things first: **Joovrim is a collection of different mods from various sou
 
 <br>
   
-Support and general talk about Tahrovin resides on the iAmMe Modlist Discord:
+Support for Joovrim is handled on the Joovrim Nexus Page
 
-[![DiscordButton](/assets/images/DiscordButton.png)](https://discord.gg/iammodlist)
 
-[![Ko-fiButton](/assets/images/Kofi.png)](https://ko-fi.com/neochiken)
+[![Nexus Link Pending](/assets/images/DiscordButton.png)](https://discord.gg/iammodlist)
+
+[![Ko-fiButton pending](/assets/images/Kofi.png)](https://ko-fi.com/neochiken)
 
 <br>
 
-# What is Tahrovin?
+# What is Joovrim?
 
-Tahrovin is a NSFW Skyrim VR modlist that aims to improve and add upon the Skyrim VR experience. The list features most, if not all, of the fundamental mods needed for any Skyrim VR mod list. The list offers plenty of eye candy paired with everyone's favourite jiggle physics. Yes, this means plenty of skimpy outfits and selectively crafted bodyslides - and no, bikini armor is not supposed to be immersive. If you're looking for a more immersive, more difficult, ***grittier*** experience, check out [Tahrovin Grit](https://github.com/AeloveRim/TahrovinGrit).  
-And don't worry, for those who prefer to play as a male character, males have also received attention in this list.
+Joovrim is a list based on Joov's typical go to mods when he starts a playthrough for his channel. Under special circumstances we may add specific profiles to emulate specific runs he has recently done but for the most part this list exists to be a Vanilla+ springing off point for your own list or just to play vanilla skyrim with a little extra stability and flair.
 
 <br>
 
@@ -45,13 +45,10 @@ I run a relatively powerful PC with the following specs:
   * RAM: 32GB 
   * GPU: RX 7900 XTX
 
-I use an Oculus Quest 3 headset with wireless Steam Link . **If you are using a Quest 3, I have a couple of performance recommendations that you can [find here](/Docs/Performance%20Tips.html) if you are struggling to get the game to run well.**  
-Now, I have not built this list to be as graphically intensive as possible but I have taken some liberties in installing higher resolution textures as well as offering a couple of the more demanding ENB presets available. With that in mind, I'd recommend at least the following specs for the best experience:
-  * CPU: Intel 7th gen *OR* AMD Ryzen 5000 series 
-  * RAM: 16GB of DDR4
-  * GPU: RTX 3070 *or the AMD equivalent with at least 8GB of VRAM*
+That being said this list should run relatively well on most modern PC's if you are really struggling with performance you should just be able to disable community shaders and run the list fine.
 
-You will need at least `245GB` of disk space on an SSD for the installation. For the downloads, you will need an extra `106GB`- ideally you want *at least* `350GB` for temporary Wabbajack work space. It doesn't have to be an NVMe SSD, but a HDD of any kind will make the list painfully unplayable. 
+You will need at least `70GB` of disk space on a drive for the installation. For the downloads, you will need an extra `20GB`- ideally you want *at least* `180GB` for temporary Wabbajack work space.
+I am unable to test the list on an HDD so I would recommend and SSD for load speeds.
 
 <br>
 
@@ -59,6 +56,5 @@ You will need at least `245GB` of disk space on an SSD for the installation. For
 
 In terms of accounts you will need:
   * Nexus Premium Account
-  * LoversLab Account
 
 Whilst you don't *need* a Nexus premium account to install the modlist, you'll have a considerably better time of it if you do.
