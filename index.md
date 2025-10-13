@@ -1,35 +1,64 @@
 ---
 title: Home
 layout: home
+nav_order: 1
+permalink: /
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+![Tahrovin Banner](/assets/images/Tahrovin.png)
+{: .no_toc }
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
 
-More specifically, the created site:
+First things first: **this list contains adult content and you must be of legal age in your country. This means 18+ in most countries, 21+ in others. It is up to you to be sure of the age requirement in your country. Tahrovin is a collection of different mods from various sources, it does not reflect the views or opinions of any mod author's featured in the list.**
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+<br>
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+***Having issues with the modlist? [FAQ and Common Issues](/Docs/Installation.html#faq--common-issues)***
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+<br>
+  
+Support and general talk about Tahrovin resides on the iAmMe Modlist Discord:
 
-To get started with creating a site, simply:
+[![DiscordButton](/assets/images/DiscordButton.png)](https://discord.gg/iammodlist)
 
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
+[![Ko-fiButton](/assets/images/Kofi.png)](https://ko-fi.com/neochiken)
 
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
+<br>
 
-----
+# What is Tahrovin?
 
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
+Tahrovin is a NSFW Skyrim VR modlist that aims to improve and add upon the Skyrim VR experience. The list features most, if not all, of the fundamental mods needed for any Skyrim VR mod list. The list offers plenty of eye candy paired with everyone's favourite jiggle physics. Yes, this means plenty of skimpy outfits and selectively crafted bodyslides - and no, bikini armor is not supposed to be immersive. If you're looking for a more immersive, more difficult, ***grittier*** experience, check out [Tahrovin Grit](https://github.com/AeloveRim/TahrovinGrit).  
+And don't worry, for those who prefer to play as a male character, males have also received attention in this list.
 
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+<br>
+
+# Before You Start
+
+Before you dive in, there's a couple things you need to be sure of first:
+
+<br>
+
+## Hardware Requirements
+
+I run a relatively powerful PC with the following specs:
+  * CPU: i7 13700KF
+  * RAM: 32GB 
+  * GPU: RX 7900 XTX
+
+I use an Oculus Quest 3 headset with wireless Steam Link . **If you are using a Quest 3, I have a couple of performance recommendations that you can [find here](/Docs/Performance%20Tips.html) if you are struggling to get the game to run well.**  
+Now, I have not built this list to be as graphically intensive as possible but I have taken some liberties in installing higher resolution textures as well as offering a couple of the more demanding ENB presets available. With that in mind, I'd recommend at least the following specs for the best experience:
+  * CPU: Intel 7th gen *OR* AMD Ryzen 5000 series 
+  * RAM: 16GB of DDR4
+  * GPU: RTX 3070 *or the AMD equivalent with at least 8GB of VRAM*
+
+You will need at least `245GB` of disk space on an SSD for the installation. For the downloads, you will need an extra `106GB`- ideally you want *at least* `350GB` for temporary Wabbajack work space. It doesn't have to be an NVMe SSD, but a HDD of any kind will make the list painfully unplayable. 
+
+<br>
+
+## Accounts
+
+In terms of accounts you will need:
+  * Nexus Premium Account
+  * LoversLab Account
+
+Whilst you don't *need* a Nexus premium account to install the modlist, you'll have a considerably better time of it if you do.
