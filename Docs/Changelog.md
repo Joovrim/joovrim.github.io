@@ -7,5 +7,10 @@ nav_order: 5
 
 # Changelog
 
+## Joovrim 1.0.1
+Added Immersive Storytelling Skeleton last minute
+
+<br>
+
 ## Joovrim 1.0
 initial release of Joovrim
