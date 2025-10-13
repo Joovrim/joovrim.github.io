@@ -6,7 +6,7 @@ nav_order: 2
 
 # Installation
 
-Please follow all of steps below if it is your first time installing this modlist, if you're updating you can [jump straight there](#updating-Joovrim).
+Please follow all of steps below if it is your first time installing this modlist, if you're updating you can [jump straight there](#updating-joovrim).
 
 <br>
 
@@ -24,6 +24,7 @@ Please follow all of steps below if it is your first time installing this modlis
     - [Clean current Skyrim installation](#clean-current-skyrim-installation)
     - [Install Skyrim](#install-skyrim)
     - [Start Skyrim](#start-skyrim)
+  - [Get The Wabbajack](#get-the-wabbajack)
   - [Wabbajack](#wabbajack)
   - [Troubleshooting](#troubleshooting)
 - [Post-Installation](#post-installation)
@@ -102,22 +103,25 @@ Wabbajack and some/most of the modding tools out there only support English lang
 If for some reason Bethesda decide to release an update for Skyrim, everything will probably break. Well, not *everything* but something will definitely break until mods can be updated to suit. To stop this from happening, you need to tell Steam that you only want to update when you tell it to. You can do this by right clicking on Skyrim in your game library and clicking **Properties** > **Updates** > **Change Automatic Updates to "Only update this game when I launch it"**. Whilst you're in here, it's also recommended to disable Steam Cloud too.
 
 ### Clean current Skyrim installation
-If you have not yet installed Skyrim VR, you can skip this part.
+If you have not yet installed Skyrim, you can skip this part.
 
 1. Right click on Skyrim in your game library and click **Properties** > **Local Files** > **Browse**. 
 2. Uninstall the game via Steam - right click on Skyrim in your game library and click **Manage** > **Uninstall**.
 3. Check the explorer window for any left over files - if there are any, delete them.
 4. Open Windows start menu/search and type in `%LOCALAPPDATA%`.
 5. Delete the Skyrim folder.
-6. Head to `Documents\My Games` and delete the Skyrim VR folder.
+6. Head to `Documents\My Games` and delete the Skyrim folder.
 
 ### Install Skyrim
-Once you've done the steps above, you can now set Steam to download Skyrim VR again but ***do not*** install Skyrim VR to a protected folder, such as `Desktop`, `Downloads` or `Program Files` of any kind. It's best to create a new, dedicated folder for it using the Steam Library function somewhere on the root of your drive such as `C:\SteamLibrary`. A lot of people have a dedicated secondary drive for their games, keeping the OS install separate; using this secondary drive will also work.
+Once you've done the steps above, you can now set Steam to download Skyrim again but ***do not*** install Skyrim to a protected folder, such as `Desktop`, `Downloads` or `Program Files` of any kind. It's best to create a new, dedicated folder for it using the Steam Library function somewhere on the root of your drive such as `C:\SteamLibrary`. A lot of people have a dedicated secondary drive for their games, keeping the OS install separate; using this secondary drive will also work.
 
 ### Start Skyrim
 That's right - start the game. You need to let the game do its initial start up jobs such as creating registry entries and generating default config files. Once you've gotten to the main menu you can close the game again.
 
 <br>
+
+## Get the wabbajack
+download the wabbajack file from the nexusmods page linked at the top of this wiki, extract it wherever you want but remember where you extracted it to.
 
 ## Wabbajack
 Installing the list is straight forward, Wabbajack will do most of the heavy lifting for you - you only have to tell it where to put stuff. Open wabbajack, click browse and then click install from disk in the top right
