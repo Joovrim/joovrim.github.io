@@ -20,7 +20,7 @@ First things first: **Joovrim is a collection of different mods from various sou
 Support for Joovrim is handled on the Joovrim Nexus Page
 
 
-[![Nexus Link Pending](/assets/images/DiscordButton.png)](https://discord.gg/iammodlist)
+[![Nexus Link](/assets/images/Nexusmods.webp)](https://www.nexusmods.com/skyrimspecialedition/mods/161414)
 
 [![Ko-fiButton pending](/assets/images/Kofi.png)](https://ko-fi.com/neochiken)
 
