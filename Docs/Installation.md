@@ -206,8 +206,7 @@ These can be selected in the Community shaders menu in the upscaling section, re
 <br>
 
 ## It's the wrong resolution!
-you have a non 1080 x 1920 monitor and will have to adjust your resolution manually in the ini
-click the puzzle pieces at the top left of mo2 and select ini editor
+you have a non 1080 x 1920 monitor and will have to adjust your resolution manually in the ini, click the puzzle pieces at the top left of mo2 and select ini editor
 
 ![ini editor](/assets/images/ini_editor.png)
 
