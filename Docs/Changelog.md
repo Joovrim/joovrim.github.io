@@ -7,6 +7,11 @@ nav_order: 5
 
 # Changelog
 
+## Joovrim 1.0.4
+Updated Detection metre to make it work with current skyrim
+
+<br>
+
 ## Joovrim 1.0.3
 Updated to hopefully actually remove CK as a requirement
 
