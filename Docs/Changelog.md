@@ -7,6 +7,11 @@ nav_order: 5
 
 # Changelog
 
+## Joovrim 1.0.5
+I changed the mudcrab sounds to be objectively correct and true.
+
+<br>
+
 ## Joovrim 1.0.4
 Updated Detection metre to make it work with current skyrim
 
