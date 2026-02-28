@@ -7,6 +7,12 @@ nav_order: 5
 
 # Changelog
 
+## Joovrim 1.0.6
+1. Added Himbo Nevernude to fix a texture gap in the male thigh
+2. Edited scrambled bugs ini to fix directional power attack perks not working
+
+<br>
+
 ## Joovrim 1.0.5
 I changed the mudcrab sounds to be objectively correct and true.
 
