@@ -7,6 +7,17 @@ nav_order: 5
 
 # Changelog
 
+## Joovrim 1.1.0
+1. Updated Community Shaders to the latest suite
+2. Generated parallax textures with PG patcher for use with latest community shaders and added the tool
+3. Created a patch to revert the longhammer's attack speed to it's default of 0.8 which was brought down to 0.6 by speed and reach fixes
+4. Made a Player Options section where I added an optional mod which restores the sneak crosshair when enabled
+5. Swapped lighting over to the lux suite with Lux CS and Light placer
+
+THIS UPDATE IS NOT SAVE SAFE, REQUIRES NEW SAVE.
+
+<br>
+
 ## Joovrim 1.0.6
 1. Added Himbo Nevernude to fix a texture gap in the male thigh
 2. Edited scrambled bugs ini to fix directional power attack perks not working
